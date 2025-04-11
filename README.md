@@ -24,7 +24,7 @@ A Python and Streamlit-based personal finance tool that helps users track income
 ## Install Python
   Download and install Python from the official site:  
    https://www.python.org/downloads/
-Install Streamlit
-## pip install streamlit
-Run the app
-## streamlit run app.py
+## Install Streamlit
+ pip install streamlit
+## Run the app
+streamlit run app.py
